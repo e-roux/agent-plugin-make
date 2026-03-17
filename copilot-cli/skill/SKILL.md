@@ -1,6 +1,6 @@
 ---
 name: makefile
-description: "You MUST use and read this file when you deal with Makefile"
+description: "Use when creating, adding, or editing a Makefile in any project. Enforces .SILENT:, .ONESHELL:, no @ prefix, mandatory qa target, and make-only workflow."
 ---
 
 # Makefile Skill
